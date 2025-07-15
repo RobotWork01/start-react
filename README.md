@@ -1,9 +1,9 @@
 # ダウンロード手順
 :shipit:下記のコマンドを実行してください。<br/>
-"git clone https://github.com/robot01/my-react"<br/>
+```git clone https://github.com/robot01/my-react"<br/>
 "cd my-react"<br/>
 "npm install" <br/>
-"npm start"<br/>
+"npm start"<br/>```
 
 ※コマンド実行結果<br/>
 １）コマンドを実行した場所にmy-reactフォルダが新規作成されます。<br/>
