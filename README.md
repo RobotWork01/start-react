@@ -11,6 +11,12 @@ npm start
 １）コマンドを実行した場所にmy-reactフォルダが新規作成されます。<br/>
 ２）my-reactフォルダの中にダウンロードされます。<br/>
 ３）最後に、ダウンロードされたReactアプリが実行されます。<br/>
+```
+私の最初のReactアプリ
+Reactの勉強を始めました！
+
+クリックしてみて
+```
 
 # Getting Started with Create React App
 
