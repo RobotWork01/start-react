@@ -6,13 +6,9 @@ npm install
 npm start
 
 ※コマンド実行結果
-　１）コマンドを実行した場所にmy-reactフォルダが新規作成されます。
-  ２）my-reactフォルダの中にダウンロードされます。
-  ３）最後に、ダウンロードされたReactアプリが実行されます。
-
-
-  
-
+１）コマンドを実行した場所にmy-reactフォルダが新規作成されます。
+２）my-reactフォルダの中にダウンロードされます。
+３）最後に、ダウンロードされたReactアプリが実行されます。
 
 # Getting Started with Create React App
 
