@@ -1,15 +1,14 @@
 # ダウンロード手順
-下記のコマンドを実行してください。
-git clone https://github.com/robot01/my-react
-"# start-react" 
-"cd my-react"
-"npm install" 
-"npm start"
+下記のコマンドを実行してください。<br/>
+"git clone https://github.com/robot01/my-react"<br/>
+"cd my-react"<br/>
+"npm install" <br/>
+"npm start"<br/>
 
 ※コマンド実行結果
-１）コマンドを実行した場所にmy-reactフォルダが新規作成されます。
-２）my-reactフォルダの中にダウンロードされます。
-３）最後に、ダウンロードされたReactアプリが実行されます。
+１）コマンドを実行した場所にmy-reactフォルダが新規作成されます。<br/>
+２）my-reactフォルダの中にダウンロードされます。<br/>
+３）最後に、ダウンロードされたReactアプリが実行されます。<br/>
 
 # Getting Started with Create React App
 
