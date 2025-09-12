@@ -28,7 +28,6 @@ Reactの勉強を始めました！
 このような画面が表示されます。クリックしてみてをクリックすると「押しました」とポップアップします。
 
 # Gitコマンドを使用しないダウンロード
-https://github.com/robot01/my-react<br/>
 my-reactフォルダをダウンロードする。<br/>
 
 # Getting Started with Create React App
@@ -104,3 +103,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 "# start-react" 
 "# start-react" 
 "# my-app" 
+
