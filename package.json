@@ -17,8 +17,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "start-react start",
-    "build": "start-react build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "rm": "rm -rf docs",
     "mv": "mv build docs",
     "git": "git add . && git commit && git push origin master",
