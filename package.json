@@ -21,8 +21,8 @@
     "mv": "mv build docs",
     "git": "git add . && git commit && git push origin master",
     "deploy": "npm run rm && npm run build && npm run mv && npm run git"
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "test": "start-react test",
+    "eject": "start-react eject",
     
     // 追加
     //"predeploy": "npm run build",
