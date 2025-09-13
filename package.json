@@ -1,6 +1,7 @@
 {
 //+ "homepage": "https://<Githubアカウント名>.github.io/<リポジトリ名>/",
 //"homepage": "https://github.com/RobotWork01/start-react/",  
+//"homepage": "https://<GitHubアカウント名>.github.io/<GitHubリポジトリ名>/",  
   "homepage": "https://RobotWork01.github.io/start-react/",
   
   "name": "start-react",
@@ -17,12 +18,17 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
     "rm": "rm -rf docs",
     "mv": "mv build docs",
     "git": "git add . && git commit && git push origin master",
     "deploy": "npm run rm && npm run build && npm run mv && npm run git"
+    
+    //"start": "react-scripts start",
+    //"build": "react-scripts build",
+    //"rm": "rm -rf docs",
+    //"mv": "mv build docs",
+    //"git": "git add . && git commit && git push origin master",
+    //"deploy": "npm run rm && npm run build && npm run mv && npm run git"
     //"test": "start-react test",
     //"eject": "start-react eject",
     
