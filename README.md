@@ -1,4 +1,4 @@
-> # フォルダ、ファイル構成
+> # フォルダ、ファイル構成 ・・・自動的に出来るフォルダ、ファイル構成
 ```
 C:\Users\XXXXX\react-projects\my-app
 　├ build
@@ -6,6 +6,8 @@ C:\Users\XXXXX\react-projects\my-app
   ├ node_modules
   ├ public
   ├ src
+　│   App.jsx
+　│ 
   └ vite-project
  package-lock.json
  package.json
@@ -13,8 +15,8 @@ C:\Users\XXXXX\react-projects\my-app
 ```
 > # Reactプログラムの実行方法
 ```
-C:\Users\XXXXX>cd C:\Users\XXXXX\react-projects\my-app
-C:\Users\XXXXX\react-projects\my-app>npm start
+cd C:\Users\XXXXX\react-projects\my-app
+npm start
 
 > my-app@0.1.0 start
 > react-scripts start
@@ -50,6 +52,7 @@ Reactの勉強を始めました！
 クリックしてみて
 ```
 このような画面が表示されます。クリックしてみてをクリックすると「押しました」とポップアップします。
+
 
 
 
