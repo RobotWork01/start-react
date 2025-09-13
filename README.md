@@ -38,13 +38,13 @@ To create a production build, use npm run build.
 webpack compiled successfully
 ```
 
-> # Reactプログラムの終了方法
+> ### Reactプログラムの終了方法
 ```
 バッチ ジョブを終了しますか (Y/N)? y
 C:\Users\XXXXX\react-projects\my-app>cd C:\Users\midor\react-projects\my-app>
 ```
 
-> # Reactプログラムの実行結果<br/>
+> ### Reactプログラムの実行結果<br/>
 ```
 私の最初のReactアプリ
 Reactの勉強を始めました！
@@ -52,6 +52,7 @@ Reactの勉強を始めました！
 クリックしてみて
 ```
 このような画面が表示されます。クリックしてみてをクリックすると「押しました」とポップアップします。
+
 
 
 
