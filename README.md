@@ -1,4 +1,4 @@
-> # フォルダ、ファイル構成 ・・・自動的に出来るフォルダ、ファイル構成
+> ### フォルダ、ファイル構成 ・・・自動的に出来るフォルダ、ファイル構成
 ```
 C:\Users\XXXXX\react-projects\my-app
 　├ build
@@ -13,7 +13,7 @@ C:\Users\XXXXX\react-projects\my-app
  package.json
 
 ```
-> # Reactプログラムの実行方法
+> ### Reactプログラムの実行方法
 ```
 cd C:\Users\XXXXX\react-projects\my-app
 npm start
@@ -52,6 +52,7 @@ Reactの勉強を始めました！
 クリックしてみて
 ```
 このような画面が表示されます。クリックしてみてをクリックすると「押しました」とポップアップします。
+
 
 
 
