@@ -1,4 +1,6 @@
 {
+//+ "homepage": "https://<Githubアカウント名>.github.io/<リポジトリ名>/",
+  + "homepage": "https://.github.io/start-react/",  
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +18,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    // 追加
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
